@@ -67,6 +67,10 @@ Users will be able to send private messages to each other. The chat functionalit
 
 - Messages works in real-time, where a user receives notifications of new messages without refreshing the page.
 
+## Example
+
+https://github.com/user-attachments/assets/7692cb4d-a7cd-4c7c-9e5c-192f2801c701
+
 ## AUTHORS
 
 - Fatema Alawadhi
